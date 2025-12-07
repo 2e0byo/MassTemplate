@@ -1,4 +1,5 @@
 \newcommand{\whenAgnus}{Immediately after the ``Pax Domini'':}
+\newcommand{\whenCommunionPsalm{During the distribution of Holy Communion in alternance with the antiphon, finishing with the Gloria:}
 \newcommand{\whenCommunion}{Once the Celebrant begins to distribute Holy Communion:}
 \newcommand{\whenCreed}{After the homily (if any), or after the Gospel, intoned by the Celebrant:}
 \newcommand{\whenGloria}{Immediately after the Kyrie, intoned by the Celebrant:}
