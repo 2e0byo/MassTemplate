@@ -53,6 +53,10 @@ creedp:
   type: bool
   help: Include creed?
 
+communionPsalmp:
+  type: bool
+  help: Include communion psalm?
+
 preface:
   type: str
   help: Which preface should be used?
