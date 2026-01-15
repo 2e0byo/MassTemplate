@@ -1,5 +1,5 @@
 \newcommand{\whenAgnus}{Directement après le « Pax Domini »\ :}
-\newcommand{\whenCommunionPsalm{Pendant la distribution de Sacrement, en alternance avec l'antienne, terminant par le Gloria\ :}
+\newcommand{\whenCommunionPsalm}{Pendant la distribution de Sacrement, en alternance avec l'antienne, terminant par le Gloria\ :}
 \newcommand{\whenCommunion}{Lorsque le Célébrant a commencé à distribuer le Sacrement\ :}
 \newcommand{\whenCreed}{Après le sermon (le cas échéant) où après l'Évangile, entonné par le Célébrant\ :}
 \newcommand{\whenGloria}{Directement après le Kyrie, entonné par le Célébrant\ :}
